@@ -1,2 +1,2 @@
-# EVA2.0
+# Session #1
 Assignment 1A
